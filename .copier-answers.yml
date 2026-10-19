@@ -1,0 +1,12 @@
+# Changes here will be overwritten by `copier update` — do not edit by hand.
+_commit: v0.1.1
+_src_path: gh:omadson/python-template
+author_email: madsonddias@gmail.com
+author_name: Madson Dias
+description: TODO
+github_user: omadson
+license: MIT
+package_module: cedro
+package_name: cedro
+project_type: package
+python_version: '3.13'

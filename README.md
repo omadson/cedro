@@ -1,0 +1,12 @@
+# cedro
+
+TODO
+
+## Development
+
+```bash
+uv sync
+uv run pre-commit install --hook-type pre-commit --hook-type commit-msg
+```
+
+Commits follow [Conventional Commits](https://www.conventionalcommits.org/) (`fix:`, `feat:`, etc.) — version and changelog (`docs/CHANGELOG.md`) are generated automatically via python-semantic-release.
